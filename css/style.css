@@ -29,11 +29,12 @@
 
 ------------------------------------------------------------------*/
 
-@import url('https://fonts.googleapis.com/css?family=Lato:400,700');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,500,700,800,900|Open+Sans&display=swap');
+
 
 body {
     background: #ffffff;
-    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-style: normal;
     font-weight: normal;
     overflow-x: hidden;
@@ -47,10 +48,11 @@ html, body {
 
 
 /*---------------------------------------
-    0 Typorgraphy              
+    0 Typorgraphy
 -----------------------------------------*/
 
 h1,h2,h3,h4,h5,h6 {
+  font-family: 'Montserrat', sans-serif;
   font-style: normal;
   font-weight: bold;
   letter-spacing: 0px;
@@ -59,6 +61,8 @@ h1,h2,h3,h4,h5,h6 {
 h1 {
   color: #373737;
   font-size: 45px;
+  font-weight: 800;
+  text-transform: uppercase;
   line-height: normal;
 }
 
@@ -93,7 +97,7 @@ p {
 
 
 /*---------------------------------------
-    1 Buttons               
+    1 Buttons
 -----------------------------------------*/
 
 .section-btn {
@@ -119,7 +123,7 @@ p {
 
 
 /*---------------------------------------
-    2 General               
+    2 General
 -----------------------------------------*/
 
 html{
@@ -168,7 +172,7 @@ a:hover, a:active, a:focus {
 
 
 /*---------------------------------------
-    3 Pre loader section              
+    3 Pre loader section
 -----------------------------------------*/
 
 .preloader {
@@ -218,7 +222,7 @@ a:hover, a:active, a:focus {
 
 
 /*---------------------------------------
-    4 Navigation section              
+    4 Navigation section
 -----------------------------------------*/
 
 .navbar-default {
@@ -279,7 +283,7 @@ a:hover, a:active, a:focus {
 
 
 /*---------------------------------------
-    5 Home section              
+    5 Home section
 -----------------------------------------*/
 
 #home {
@@ -304,7 +308,7 @@ a:hover, a:active, a:focus {
 
 
 /*---------------------------------------
-    6 About section              
+    6 About section
 -----------------------------------------*/
 
 #about {
@@ -331,7 +335,7 @@ a:hover, a:active, a:focus {
 
 
 /*---------------------------------------
-   7 Service section              
+   7 Service section
 -----------------------------------------*/
 
 #service .fa {
@@ -349,7 +353,7 @@ a:hover, a:active, a:focus {
 
 
 /*---------------------------------------
-    8 Resume section              
+    8 Resume section
 -----------------------------------------*/
 
 #resume .resume-thumb {
@@ -378,7 +382,7 @@ a:hover, a:active, a:focus {
 
 
 /*---------------------------------------
-    9 Work section              
+    9 Work section
 -----------------------------------------*/
 
 #work .work-thumb {
@@ -412,7 +416,7 @@ a:hover, a:active, a:focus {
 
 
 /*---------------------------------------
-    10 Contact section              
+    10 Contact section
 -----------------------------------------*/
 
 #contact .text-success,
@@ -462,7 +466,7 @@ a:hover, a:active, a:focus {
 
 
 /*---------------------------------------
-    11 Footer section              
+    11 Footer section
 -----------------------------------------*/
 
 footer {
@@ -477,7 +481,7 @@ footer p {
 
 
 /*---------------------------------------
-   12 Social icon             
+   12 Social icon
 -----------------------------------------*/
 
 .social-icon {
@@ -518,7 +522,7 @@ footer p {
 
 
 /*---------------------------------------
-    13 Mobile Responsive styles              
+    13 Mobile Responsive styles
 -----------------------------------------*/
 
 @media (max-width: 980px) {
