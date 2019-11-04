@@ -4,7 +4,7 @@
 
         // PRE LOADER
         $(window).load(function(){
-          $('.preloader').fadeOut(1000); // set duration in brackets    
+          $('.preloader').fadeOut(1000); // set duration in brackets
         });
 
 
@@ -16,8 +16,8 @@
 
         // BACKSTRETCH SLIDESHOW
         $("#home").backstretch([
-          "images/home-bg-slideshow-image1.jpg",
-          "images/home-bg-slideshow-image2.jpg"
+          "images/tZc3vjPCk-Q.jpg",
+          "images/CDWPuiRuA.jpg"
           ], {duration: 2000, fade: 750});
 
 
@@ -51,7 +51,7 @@
           }
           return false;
         });
-        
+
 
         // SMOOTHSCROLL
         $(function() {
@@ -62,7 +62,7 @@
             }, 1000);
             event.preventDefault();
           });
-        });  
+        });
 
 
         // WOW ANIMATION
