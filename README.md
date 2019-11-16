@@ -5,9 +5,9 @@ Um profissional com perfil híbrido, com conhecimento em diferentes áreas da en
 
 Contribuir de forma muito positiva para melhoria da experiência e interface de um produto legado, trazendo todo o contexto de desenvolvimento de software e design para entregar produtos de alto nível de qualidade.
 
--------
+---
 
-Recife/Pernambuco - Brazil <br>
+**Recife - PE - Brazil / Solteiro / 34 Anos / MEI**<br>
 +55 (81) 984 266 770 <br>
 sergiobslva@gmail.com <br>
 **Linkedin:** [/in/sergiobslva/](https://www.linkedin.com/in/sergiobslva/) <br>
