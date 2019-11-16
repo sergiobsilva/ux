@@ -7,10 +7,10 @@ Contribuir de forma muito positiva para melhoria da experiência e interface de 
 
 -------
 
-Recife/Pernambuco - Brazil
-+55 (81) 984 266 770
-sergiobslva@gmail.com
-**Linkedin:** [/in/sergiobslva/](https://www.linkedin.com/in/sergiobslva/)
+Recife/Pernambuco - Brazil <br>
++55 (81) 984 266 770 <br>
+sergiobslva@gmail.com <br>
+**Linkedin:** [/in/sergiobslva/](https://www.linkedin.com/in/sergiobslva/) <br>
 **Portfolio:** **[sergiobsilva.github.io/ux](https://sergiobsilva.github.io/ux)**
 
 ---
@@ -84,6 +84,6 @@ Backend / DBA Jr / Open Data
 * Modelagem de Processos
 * Gerência de Projetos
 
-**UX Mergo - 2014**
-**UX / UI Origamid - 2015**
+**UX Mergo - 2014** <br>
+**UX / UI Origamid - 2015** <br>
 **Web Standards StudiOnline - 2013**
