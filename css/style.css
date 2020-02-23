@@ -519,6 +519,10 @@ footer p {
   transform: scale(1.1);
 }
 
+.p-menu {
+  padding:8px 20px !important;
+}
+
 
 
 /*---------------------------------------
