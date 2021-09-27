@@ -7,14 +7,24 @@ Contribuir de forma muito positiva para melhoria da experiência e interface de 
 
 ---
 
-**Recife - PE - Brazil / Solteiro / 34 Anos / MEI**<br>
-+55 (81) 984 266 770 <br>
+**Brasília - DF - Brazil / Solteiro / 36 Anos**<br>
++55 (84) 988 176 770 <br>
 sergiobslva@gmail.com <br>
 **Linkedin:** [/in/sergiobslva/](https://www.linkedin.com/in/sergiobslva/) <br>
 **Portfolio:** **[sergiobsilva.github.io/ux](https://sergiobsilva.github.io/ux)**
 
 ---
+
 ### Experiências
+**Neurotech | 2020-2021 (6 Meses)**
+Consultor de Product Designer
+
+Consultor de projeto de experiência de usuário, interfaces de produtos digitais e pesquisas relacionadas a camada de negócios. Atuando no auxílio de decisões estratégicas para escolha de metodologias para soluções de problemas recorrentes dentro do processo de UX.
+
+**Neurotech | 2020-2021 (1 ano)**
+UX Designer / Research
+
+Designer Pesquisador junto ao time de Experiência, atuando diretamente com time de Inteligência de Dados (Machine Learning / Inteligência Artificial / Data Science) no auxílio da melhoria de processos e rotinas de trabalho
 
 **CIn UFPE - FACEPE | (1 ano & 8 Meses)**
 UX / UI Designer
