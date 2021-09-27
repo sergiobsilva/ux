@@ -1,9 +1,11 @@
 # Sérgio Silva
 
-## UX / UI Designer
-Um profissional com perfil híbrido, com conhecimento em diferentes áreas da engenharia de software. Com a capacidade de entender e interagir com profissionais de diferentes áreas.
+## Product Designer
+Atualmente, Designer de Produto na Tembici, Sou UX Designer, Pesquisador e entusiasta de ciências que estudam o comportamento humano, como: Antropologia, Psicologia, Neurociência, Psicologia do Aprendizado e outras. Com cerca de 4 anos de experiência com UX e criação de produtos digitais, atuei por cerca de 12 anos com Desenvolvimento de Software atuando desde os processos de análise de requisitos (Product Management) até o deploy da aplicação (Frontend).
 
-Contribuir de forma muito positiva para melhoria da experiência e interface de um produto legado, trazendo todo o contexto de desenvolvimento de software e design para entregar produtos de alto nível de qualidade.
+Profissional de UX / UI / Researcher com múltiplas competências em desenvolvimento de software, com maturidade para auxiliar na concepção de produtos digitais de qualidade com uma visão holística de desenvolvimento de software. Sempre em busca de novos conhecimentos e amadurecendo profissional.
+
+Atualmente mentor de carreiras de UX nas iniciativas UX Mentory e PretUX, auxiliando pessoas com a sua alocação dentro do mercado de UX e outros também.
 
 ---
 
