@@ -16,21 +16,20 @@ sergiobslva@gmail.com <br>
 ---
 
 ### Experiências
-**Neurotech | 2020-2021 (6 Meses)**
+**Accenture Brasil | 2020-2021 (6 Meses)**
 Consultor de Product Designer
 
-Consultor de projeto de experiência de usuário, interfaces de produtos digitais e pesquisas relacionadas a camada de negócios. Atuando no auxílio de decisões estratégicas para escolha de metodologias para soluções de problemas recorrentes dentro do processo de UX.
+> Consultor de projeto de experiência de usuário, interfaces de produtos digitais e pesquisas relacionadas a camada de negócios. Atuando no auxílio de decisões estratégicas para escolha de metodologias para soluções de problemas recorrentes dentro do processo de UX.
 
 **Neurotech | 2020-2021 (1 ano)**
 UX Designer / Research
 
-Designer Pesquisador junto ao time de Experiência, atuando diretamente com time de Inteligência de Dados (Machine Learning / Inteligência Artificial / Data Science) no auxílio da melhoria de processos e rotinas de trabalho
+> Designer Pesquisador junto ao time de Experiência, atuando diretamente com time de Inteligência de Dados (Machine Learning / Inteligência Artificial / Data Science) no auxílio da melhoria de processos e rotinas de trabalho
 
 **CIn UFPE - FACEPE | (1 ano & 8 Meses)**
 UX / UI Designer
 
-> Responsável por todo o processo de Design do projeto, desde o
-> mapeamento das Personas até a criação e manutenção de Design *System* e *Style Guides* e rotinas de Research. Também atuo como *Dev Frontend* e executo tarefas de **Lead Designer** atuando na camada de controle de ferramentas e auxilio nos processos de contratação de profissionais de design.
+> Responsável por todo o processo de Design do projeto, desde o mapeamento das Personas até a criação e manutenção de Design *System* e *Style Guides* e rotinas de Research. Também atuo como *Dev Frontend* e executo tarefas de **Lead Designer** atuando na camada de controle de ferramentas e auxilio nos processos de contratação de profissionais de design.
 
 
 **Pretaçao de Serviço PJ | 2016 - 2018 (2 anos)**
