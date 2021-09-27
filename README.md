@@ -46,8 +46,9 @@ Analista de Requisitos
 
 
 **UnB Gama | 2011 - 2014**
-Pesquisador / Web Master / Dev Front &
-Backend / DBA Jr / Open Data
+Pesquisador / Web Master / Dev Front & Backend / DBA Jr / Open Data
+
+> Contato com tecnologias relacionadas a Ontologias, Modelos de Informação, eHeath, Informatica em Saúde e tecnologias relacionadas. Auxílio no processo de conversão de bases relacionais para produtos Oracle PIX e PDQ, junto à tecnologias XDS, ATNA e Arquétipos.
 
 ---
 ### Ferramentas
