@@ -86,15 +86,27 @@ Pesquisador / Web Master / Dev Front & Backend / DBA Jr / Open Data
 * Métodos Ágeis
 
 ---
+
 ### Cursos / Educação
+* UI Design // UIBoost // Insany Design
+* UI Design // Origamid
+* UX Design // Origamid
+* UX Heurísticas // Origamid
+* Posicionamento CSS Avançado // Origamid
+* Javascript ECMA // Origamid
+* UX Design // Mergo
+* UX Writing // Cesar
+* Customer Success // Data Drive Customer & Experience
+* BPMN // UnB
+* Wordpress // StudioOnline
+* Webstandards // StudioOnline
+* Infraestrutura em Registro Eletrônico de Saúde // UnB
+* Oracle Infraestrutura // UnB + IEEE
+* Design Gráfico // SENAI
+* Técnico em Sistemas de Informação // ETC
+* Técnico em Sistemas para Internet // ETC
+
 **Engenharia de Software UnB - 2016**
-* Prototipação
-* Research
-* Style Guide
-* Design System
-* Engenharia de Requisitos
-* Modelagem de Processos
-* Gerência de Projetos
 
 **UX Mergo - 2014** <br>
 **UX / UI Origamid - 2015** <br>
