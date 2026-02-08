@@ -1,16 +1,22 @@
 # Sérgio Silva
 
 ## Product Designer
-Atualmente, Designer de Produto na Tembici, Sou UX Designer, Pesquisador e entusiasta de ciências que estudam o comportamento humano, como: Antropologia, Psicologia, Neurociência, Psicologia do Aprendizado e outras. Com cerca de 4 anos de experiência com UX e criação de produtos digitais, atuei por cerca de 12 anos com Desenvolvimento de Software atuando desde os processos de análise de requisitos (Product Management) até o deploy da aplicação (Frontend).
+Como Analista de Requisitos e Negócios, contribuí de forma significativa na construção de processos de melhoria de entregas e padronização de produtos, melhorando de forma importante a qualidade das entregas e a velocidade das mesmas dentro do processo de desenvolvimento de software em menos de 6 meses de atuação com o time de Requisitos e Design.
 
-Profissional de UX / UI / Researcher com múltiplas competências em desenvolvimento de software, com maturidade para auxiliar na concepção de produtos digitais de qualidade com uma visão holística de desenvolvimento de software. Sempre em busca de novos conhecimentos e amadurecendo profissional.
+Com as minhas habilidades de Design, fui capaz de embutir nos processos de Continous Delivery de software, metodologias de pesquisa que otimizam os resultados de entrega, a clareza da mesma e a melhor integração dos times de Negócios e Desenvolvimento utilizando técnicas de pesquisa de Design.
 
-Atualmente mentor de carreiras de UX nas iniciativas UX Mentory e PretUX, auxiliando pessoas com a sua alocação dentro do mercado de UX e outros também.
+Fui responsável pela criação de modelos de apresentação que entregassem de forma clara o resumo da funcionalidade desenvolvida, seus impactos e números importantes relacionados ao produto, gerando um grande impacto para o Negócio.
+
+Em minha jornada, possuo e certificações importantes de Agilidade e pretendo logo em breve tirar minha certificação de IA para Product Owners.
+
+Nos últimos anos me especializei em agilidade para que este conhecimento fosse complementar a minhas outras experiências de carreira anteriores.
+
+O que me deu a perspectiva de execução de outras funções dentro do contexto de agilidade: Product Owner (Dono de Produto) e Scrum Master.
 
 ---
 
-**Brasília - DF - Brazil / Solteiro / 36 Anos**<br>
-+55 (84) 988 176 770 <br>
+**Brasília - DF - Brazil / Casado / 40 Anos**<br>
++55 (61) 985 016 770 <br>
 sergiobslva@gmail.com <br>
 **Linkedin:** [/in/sergiobslva/](https://www.linkedin.com/in/sergiobslva/) <br>
 **Portfolio:** **[sergiobsilva.github.io/ux](https://sergiobsilva.github.io/ux)**
@@ -18,6 +24,16 @@ sergiobslva@gmail.com <br>
 ---
 
 ### Experiências
+**AMirante Tecnologia | 2025-Atualmente**
+Analista de Requisitos / Scrum Master
+
+> Melhoria no processo de descrição de Estórias de Usuários (HU), com inclusão de processos de verificação e inserção de técnicas de UX Research para otimizar e aperfeiçoar a construção das Estórias e entrega de qualidade no requisito do produto.
+
+**Sonda @ Caixa Econômica | 2023-2025 (1 ano e 8 meses)**
+Consultor de Product Designer / Analista de Requisitos e Negócios
+
+> Melhoria dos processos de entrega de produto (auxiliando na criação da pipeline de desenvolvimento), entrega de protótipos padronizados do produto e redução de 60% no tempo de entrega de produto de ponta a ponta, com criação de rotinas e processos de Requisitos e Discovery de produto.
+
 **Accenture Brasil | 2020-2021 (6 Meses)**
 Consultor de Product Designer
 
@@ -53,37 +69,57 @@ Pesquisador / Web Master / Dev Front & Backend / DBA Jr / Open Data
 ---
 ### Ferramentas
 
-* Figma
-* Adobe XD
-* Invision / UXPin
-* Adobe Photoshop
-* Corel Draw
-* Marvel
-* Atlassian
-* Trello
-* Flow
-* Git
-* Bootstrap
-* Bizagi
+* Bizagi / Modelagem de Processos  (Intermediário)
+* Codebeamer
+* Redmine
+* Jira / Atlassian (Avançado)
+* Trello (Avançado)
+* Miro (Intermediário)
+* Git / Github (Avançado)
+* Figma (Avançado)
+* Maze (Básico)
+* Hotjar (Básico)
+* Perplexity / Gemini / ChatGPT / Cursor
 
 ---
 ### Habilidades
-* Prototipaçao
-* UX Research
-* User Interface Design
-* Design System
-* Wireframe
-* Frontend
-* Design Visual
-* Etinografia
-* Grupo Focal
-* Card Sorting
-* Consumer Jorney
-* Persona
-* User Flow
-* Teste de Usabilidade
-* Analytics
+* Levantamento e Elicitação de Requisitos
+* Pesquisas Qualitativa e Quantitativa
+* Documentação de Produtos
+* Técnicas de Entrevistas
+* Mapeamento de Stakeholders
+* User Stories
 * Métodos Ágeis
+* Product Owner (PO)
+* Scrum Master (SM)
+* Scrum Developer (SD)
+* Product Management (PM)
+* Modelagem de Processos (BPMN)
+* BDD
+* UML
+* PMBOOK
+* Product Discovery
+* UX Design
+* UI Design
+* UX Writing
+* Design de Conteúdo
+* User Research
+* Product Research
+* Design Thinking
+* Análise de Dados
+* Banco de Dados
+* Gerência de Config.
+* Quality Assurance (QA)
+* Gestão de Produto
+* Frontend
+* Backend
+* DevOps
+* DesignOps
+* ResearchOps
+* Data Analytics
+* Design Estratégico
+* Storytelling
+
 
 ---
 
