@@ -1,6 +1,6 @@
 # Sérgio Silva
 
-## Product Designer
+## Analista de Requisitos e de Negócios / Product Owner / Scrum Master / UX
 Como Analista de Requisitos e Negócios, contribuí de forma significativa na construção de processos de melhoria de entregas e padronização de produtos, melhorando de forma importante a qualidade das entregas e a velocidade das mesmas dentro do processo de desenvolvimento de software em menos de 6 meses de atuação com o time de Requisitos e Design.
 
 Com as minhas habilidades de Design, fui capaz de embutir nos processos de Continous Delivery de software, metodologias de pesquisa que otimizam os resultados de entrega, a clareza da mesma e a melhor integração dos times de Negócios e Desenvolvimento utilizando técnicas de pesquisa de Design.
